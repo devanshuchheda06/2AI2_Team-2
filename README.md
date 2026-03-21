@@ -1,4 +1,4 @@
-***Project Title: Linear Regression***
+***Project Title: Insurance Cost Prediction- Predicting Medical Insurance Charges Using Linear Regression***
 
 
 *Team Member Details:*
