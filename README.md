@@ -2,12 +2,12 @@
 
 
 *Team Member Details:*
-  Team Leader: Devanshu Chheda (integration-documentation)
-  Member 1: Dhruv Suthar (Branch: data-loading-exploration)
-  Member 2: Dhwani Mishra (Branch: preprocessing-cleaning)
-  Member 3: Derangula Umapathi (Branch: train-test-split-linear)
-  Member 4: Donkana Ravikumar (Branch: evaluation-metrics)
-  Member 5: Swapnil Desale (Branch: simple-improvements)
+  - Team Leader: Devanshu Chheda (integration-documentation)
+  - Member 1: Dhruv Suthar (Branch: data-loading-exploration)
+  - Member 2: Dhwani Mishra (Branch: preprocessing-cleaning)
+  - Member 3: Derangula Umapathi (Branch: train-test-split-linear)
+  - Member 4: Donkana Ravikumar (Branch: evaluation-metrics)
+  - Member 5: Swapnil Desale (Branch: simple-improvements)
 
 
 *Problem Statement:*
