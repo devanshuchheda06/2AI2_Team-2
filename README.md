@@ -26,14 +26,14 @@
 
 
 ​
-*Key columns (features):*
-​    - age: Age of the individual (years, numeric).
-​    - sex: Biological sex (male, female, categorical).
-​    - bmi: Body Mass Index, a measure of body fat (numeric).
-​    - children: Number of children/dependents (integer).
-​    - smoker: Smoking status (yes, no, categorical).
-​    - region: Residential area (northeast, northwest, southeast, southwest, categorical).
-​    - charges: Individual medical insurance cost (continuous, target variable).
+*Key columns (features):*  
+  - age: Age of the individual (years, numeric).
+  - sex: Biological sex (male, female, categorical).
+  - bmi: Body Mass Index, a measure of body fat (numeric).
+  - children: Number of children/dependents (integer).
+  - smoker: Smoking status (yes, no, categorical).
+  - region: Residential area (northeast, northwest, southeast, southwest, categorical).
+  - charges: Individual medical insurance cost (continuous, target variable).
 
 ​
 
@@ -45,7 +45,7 @@
     
 2. Handling missing values:
     - Verified missing values column-wise.
-    - Rows with missing values (if any) were dropped using dropna() for     simplicity.
+    - Rows with missing values (if any) were dropped using dropna() for simplicity.
 
     
 3. Feature selection:
