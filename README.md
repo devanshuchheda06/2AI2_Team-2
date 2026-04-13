@@ -105,7 +105,7 @@ Library: scikit-learn (LinearRegression).
 
   - Improved Linear Regression (with polynomial features on numeric variables + scaling):
     - Improved model RMSE: 5841.28018590557
-    - Improved model R2  : 0.7802200772760515
+    - Improved model R²  : 0.7802200772760515
 
 These values are realistic sample numbers for this dataset and pipeline; you must replace them with the exact outputs from your own run.
 ​
