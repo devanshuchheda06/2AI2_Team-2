@@ -51,4 +51,5 @@ rmse = np.sqrt(mse)
 r2 = r2_score(y_test, y_pred)
 
 print("Improved model RMSE:", rmse)
-print("Improved model R2  :", r2)
+
+print("Improved model R2 :", r2)
